@@ -18,6 +18,18 @@ Brief professional summary (2–3 lines)
 
 
 ## Technical Skills
+### Geodetic
+- GNSS Data Processing & Analysis,
+- Differential and Precise Point Positioning (PPP),
+- Geodetic Time Series Analysis (e.g. GNSS Position Time Series),
+- Least-Squares Estimation Framework,
+- relative gravity data processing,
+- gravity functionals from satellite gravity model and analysis,
+- monthly gravity field change from GRACE /GRACE-FO level-2 data,
+- spherical harmonic analysis and synthesis,
+- geoid modelling and validation
+### Programming
+### Software
 - ...
 
 ## Selected Publications
