@@ -28,9 +28,23 @@ Brief professional summary (2–3 lines)
 - monthly gravity field change from GRACE /GRACE-FO level-2 data,
 - spherical harmonic analysis and synthesis,
 - geoid modelling and validation
-### Programming
+### Programming and Scientific Computing Environment
+- Linux, Shell Scripting
+- GMT,
+- Octave,
+- Git,
+- Python,
+- LATEX,
+- GNSS time series analysis package: GNSS_Time_Series_Viewers; GNSS_Vel_95CI
+- Satellite gravimetry octave package: Gracebunlde, SHbundle, uberall
+
 ### Software
-- ...
+- PRIDE PPP-AR,
+- TBC,
+- RTKLIB,
+- GRAVSOFT,
+- GravAdjust,
+- ArcGIS
 
 ## Selected Publications
 - ...
