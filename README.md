@@ -35,6 +35,24 @@ Currently, I am working as a Geodetic Engineer at Survey Department, building te
 - monthly gravity field change from GRACE /GRACE-FO level-2 data,
 - spherical harmonic analysis and synthesis,
 - geoid modelling and validation
+
+- GNSS Data Processing & Analysis: 
+	- Single Point Positioning (SPP) 
+	- Real-Time Kinematics (RTK) 
+	- Precise Point Positioning (PPP)
+- Satellite Gravimetry: 
+	- Gravity functionals from satellite gravity model and analysis
+	- Monthly gravity field change from GRACE /GRACE-FO level-2 data
+	- Spherical harmonic analysis and synthesis
+	- Relative gravity data processing
+	- Geoid modelling and validation
+- Data Analysis:
+	- Geodetic time series analysis
+	- Least-squares estimation Framework
+	
+
+
+
 ### Scientific Computing & Programming Environment
 - Linux, Shell Scripting
 - GMT,
