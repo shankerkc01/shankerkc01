@@ -1,10 +1,8 @@
-# Hi 👋! I am Shanker KC.
+# Hi 👋! I am Shanker KC, M.Eng. (Geodesy).
 
-I am truly fascinated by changing shape of the Earth. Thus, I am making career in Geodesy and Geophysics.
+I am truly fascinated by changing shape of the Earth.
 
-Geodetic Engineer | Geomatics Engineer |
-
-Brief professional summary (2–3 lines)
+Currently, I am working as a Geodetic Engineer at Survey Department, building terresrial reference frame & vertical reference frame. Interested in solving challanges & problems of climate change and natural hazards by especially mastering the field of Geodesy and Geophysics.
 
 ## Research Interests
 - Time-Variable Gravity Field of the Earth, Ice Mass Change, Sea-Level Change
@@ -16,8 +14,6 @@ Brief professional summary (2–3 lines)
 - Global Navigation Satellite System (GNSS),
 - Satellite Gravimetry: GRACE/GRACE-FO,
 - InSAR,
-
-
 
 ## Technical Skills
 ### Geodetic
