@@ -16,6 +16,15 @@ Currently, I am working as a Geodetic Engineer at Survey Department, building te
 - InSAR,
 
 ## Technical Skills
+
+| Domain | Tools & Methods |
+|------|----------------|
+| GNSS | Precise Point Positioning (PPP), Network adjustment |
+| Gravimetry | GRACE/GRACE-FO processing, spherical harmonics |
+| Programming | Python, MATLAB, Bash |
+| Data Analysis | Least-squares estimation, time series analysis |
+| Visualization | PyGMT, Matplotlib |
+
 ### Geodetic
 - GNSS Data Processing & Analysis,
 - Differential and Precise Point Positioning (PPP),
@@ -57,13 +66,6 @@ Gorkha Earthquake Eras with Future Directions. In Remote Sensing (Vol. 14, Issue
 
 ## Tools & Languages
 - ...
-
-## 
-
-## Contact (look at the left panel, below picture)
-- Email: shankerkc01@gmail.com
-- GitHub: https://github.com/shankerkc01
-- LinkedIn: https://www.linkedin.com/in/shankerkc/
 
 ## Professional Networks
 - LinkedIn: https://www.linkedin.com/in/shankerkc/
