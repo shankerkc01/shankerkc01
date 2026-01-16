@@ -16,26 +16,7 @@ Currently, I am working as a Geodetic Engineer at Survey Department, building te
 - InSAR,
 
 ## Technical Skills
-
-| Domain | Tools & Methods |
-|------|----------------|
-| GNSS | Precise Point Positioning (PPP), Network adjustment |
-| Gravimetry | GRACE/GRACE-FO processing, spherical harmonics |
-| Programming | Python, MATLAB, Bash |
-| Data Analysis | Least-squares estimation, time series analysis |
-| Visualization | PyGMT, Matplotlib |
-
 ### Geodetic
-- GNSS Data Processing & Analysis,
-- Differential and Precise Point Positioning (PPP),
-- Geodetic Time Series Analysis (e.g. GNSS Position Time Series),
-- Least-Squares Estimation Framework,
-- relative gravity data processing,
-- gravity functionals from satellite gravity model and analysis,
-- monthly gravity field change from GRACE /GRACE-FO level-2 data,
-- spherical harmonic analysis and synthesis,
-- geoid modelling and validation
-
 - GNSS Data Processing & Analysis: 
 	- Single Point Positioning (SPP) 
 	- Real-Time Kinematics (RTK) 
@@ -47,29 +28,26 @@ Currently, I am working as a Geodetic Engineer at Survey Department, building te
 	- Relative gravity data processing
 	- Geoid modelling and validation
 - Data Analysis:
-	- Geodetic time series analysis
 	- Least-squares estimation Framework
+	- Geodetic time series analysis
 	
-
-
-
-### Scientific Computing & Programming Environment
-- Linux, Shell Scripting
-- GMT,
-- Octave,
-- Git,
-- Python,
-- LATEX,
+### Scientific Computing Environment
+- Linux | Bash Scripting
+- Git
+- Octave
+- Python
+- Generic Mapping Tool (GMT)
 - GNSS time series analysis package: GNSS_Time_Series_Viewers; GNSS_Vel_95CI
 - Satellite gravimetry octave package: Gracebunlde, SHbundle, uberall
 
 ### Software
-- PRIDE PPP-AR,
-- TBC,
-- RTKLIB,
-- GRAVSOFT,
-- GravAdjust,
-- ArcGIS
+- PRIDE PPP-AR:  An Open Source High-Precison GNSS Software
+- RTKLIB:  An Open Source GNSS Positioning Software
+- TBC: A Commerical Software for Post-Processing RTK
+- GRAVSOFT:  Gravity Field Modelling Software
+- GravAdjust: Relative Gravity Data Processing Software
+- LATEX: 
+- ArcGIS: GIS and Cartography Software
 
 ## Selected Publications
 ### International Journals
