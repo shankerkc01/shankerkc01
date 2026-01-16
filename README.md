@@ -56,7 +56,7 @@ frequency shift approach. Geodesy and Geodynamics, S1674984724000387. https://do
 Gorkha Earthquake Eras with Future Directions. In Remote Sensing (Vol. 14, Issue 7). MDPI. https://doi.org/10.3390/rs14071586
 ### National Journals
 - Developing New National Geodetic Reference Frame of Nepal. https://doi.org/10.3126/njg.v24i1.79350
-- Can GNSS Derived Height Replace Levelling Height?-A Case of Low-Land of Nepal. https://doi.org/https:/doi.org/10.3126/njg.v22i1.55120
+- Can GNSS-Derived Height Replace Differential Spirit Levelling Height?. https://doi.org/https:/doi.org/10.3126/njg.v22i1.55120
 - Measurement of Height of Mt. Sagarmatha. https://doi.org/https:/doi.org/10.3126/njg.v20i1.39479
 
 ## Tools & Languages
@@ -64,7 +64,16 @@ Gorkha Earthquake Eras with Future Directions. In Remote Sensing (Vol. 14, Issue
 
 ## 
 
-## Contact
-- Email
-- GitHub
-- LinkedIn
+## Contact (look at the left panel, below picture)
+- Email: shankerkc01@gmail.com
+- GitHub: https://github.com/shankerkc01
+- LinkedIn: https://www.linkedin.com/in/shankerkc/
+
+## Professional Networks
+- LinkedIn: https://www.linkedin.com/in/shankerkc/
+- GitHub: https://github.com/shankerkc01
+- Google scholar: https://scholar.google.com/citations?user=AdNYOQsAAAAJ&hl=en
+- ResearchGate: https://www.researchgate.net/profile/Shanker-Kc
+- Orcid: https://orcid.org/0000-0002-8598-8796
+- X
+
