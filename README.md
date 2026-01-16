@@ -1,8 +1,8 @@
-# Shanker KC
+# Hi 👋! I am Shanker KC.
+
+I am truly fascinated by changing shape of the Earth. Thus, I am making career in Geodesy and Geophysics.
+
 Geodetic Engineer | Geomatics Engineer |
-
-I am fascinated by Geodesy and Geophysics.
-
 
 Brief professional summary (2–3 lines)
 
